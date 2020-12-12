@@ -22,7 +22,7 @@ $ npm install @yeldirium/ts-npm-package-template
 
 ## Running the quality assurance
 
-To lint and test this module use [roboter](https://www.npmjs.com/package/roboter).
+To lint and test this package use [roboter](https://www.npmjs.com/package/roboter).
 
 ```shell
 $ npx roboter
